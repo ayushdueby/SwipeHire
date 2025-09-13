@@ -1,0 +1,16 @@
+{
+  "name": "SwipeHire - Skills-First Job Matching",
+  "short_name": "SwipeHire",
+  "description": "A skills-first, swipe-to-match hiring app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

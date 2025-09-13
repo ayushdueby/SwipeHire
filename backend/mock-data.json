@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "_id": "1",
+      "email": "ayushdubeymanu@gmail.com",
+      "password": "$2b$10$mTWtaOGEjeoast9xT4Lu8e.gYYxmQIMqqYw3anWTzzpB916UyMVAG",
+      "role": "candidate",
+      "firstName": "Ayush",
+      "lastName": "Dubey",
+      "isActive": true,
+      "createdAt": "2025-09-02T15:19:09.681Z",
+      "updatedAt": "2025-09-02T15:19:09.681Z"
+    }
+  ],
+  "candidateProfiles": [
+    {
+      "userId": "1",
+      "title": "Software Developer",
+      "skills": [
+        "C++",
+        "Node.js",
+        "Next.js",
+        "React",
+        "TypeScript",
+        "MongoDB",
+        "Redis",
+        "Socket.IO",
+        "REST APIs",
+        "OAuth2/JWT",
+        "SQL",
+        "Real-Time Systems",
+        "LLM Integration"
+      ],
+      "yoe": 1,
+      "location": "Gurgaon",
+      "expectedCTC": 2600000,
+      "about": "Dear Hiring Manager,\n\nI am excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience delivering scalable fintech products, real-time full-stack platforms, and impactful research.\n\nCore Skills:\nC++, Node.js, Next.js, React, TypeScript, MongoDB, Redis, Socket.IO, REST APIs, OAuth2/JWT, SQL, Real-Time Systems, LLM Integration\n\nProfessional Experience:\nFNZ Group: Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by 70%.\nCurtis Bank: Streamlined AI-powered workflows, decreasing manual work by 30% through advanced rule-chaining and reliability improvements.\n\nKey Projects:\nBidly – Real-Time Service Bidding Platform:\nDeveloped a full-stack Next.js + Node.js system with role-based dashboards, JWT-secured routes, and real-time updates using Socket.IO. Achieved <200ms API response times, auto-purged stale data with MongoDB TTL, and planned LLM-powered search.\n\nTradeLab – Stock Trading Simulation:\nEngineered a real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis-powered caching to reduce API calls by 65%. Enabled <100ms dashboard loads, robust WebSocket updates, and secure authentication.\n\nSelect Achievements:\n\nBest Employee Award at FNZ\n\n1,000+ DSA problems solved\n\nMentored 300+ students (C++/DSA)\n\nNational RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist\n\nSpringer LNNS (Scopus) paper co-author on Parkinson’s detection via speech\n\nI am confident in C++, Node.js, React, REST API design, and scalable backend systems. I thrive in engineering-driven teams and am ready to contribute from day one.\n\nThank you for your time. I look forward to discussing my fit for your SDE team.\n\nBest regards,\nAyush Dubey\nayushdubeymanu@gmail.com\n+91-9560752808\nResume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drive_link\nLinkedin: https://linkedin.com/in/ayush-dubey-399a1a231\nLeetcode: https://leetcode.com/u/ayushdubeymanu0786/",
+      "experiences": [
+        {
+          "company": "FNZ",
+          "role": "SDE",
+          "startDate": "2025-01-06T00:00:00.000Z",
+          "endDate": null,
+          "skills": [
+            "JAVA",
+            "LLD",
+            "HLD",
+            "Studio",
+            "Jira"
+          ]
+        },
+        {
+          "company": "NTPC",
+          "role": "SystemEngineer",
+          "startDate": "2024-04-01T00:00:00.000Z",
+          "endDate": "2024-06-01T00:00:00.000Z",
+          "skills": [
+            "PAC",
+            "WLD"
+          ]
+        },
+        {
+          "company": "CodingNinjas",
+          "role": "TeachingAssistant",
+          "startDate": "2023-08-08T00:00:00.000Z",
+          "endDate": "2023-11-08T00:00:00.000Z",
+          "skills": [
+            "DSA",
+            "C++",
+            "Debugging"
+          ]
+        }
+      ],
+      "achievements": [
+        "Best Employee Award at FNZ",
+        "1,000+ DSA problems solved",
+        "Mentored 300+ students (C++/DSA)",
+        "National RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist",
+        "Springer LNNS (Scopus) paper co-author on Parkinson’s detection via speech"
+      ],
+      "resumeUrl": "https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drive_link",
+      "lastActive": "2025-09-02T15:20:36.308Z",
+      "createdAt": "2025-09-02T15:20:36.308Z",
+      "updatedAt": "2025-09-07T09:45:56.236Z"
+    },
+    {
+      "userId": "3",
+      "title": "SDE",
+      "skills": [
+        "SDE"
+      ],
+      "yoe": 1,
+      "location": "SDE",
+      "expectedCTC": 1,
+      "about": "id1",
+      "experiences": [],
+      "achievements": [
+        "SDE"
+      ],
+      "lastActive": "2025-09-02T17:18:00.658Z",
+      "createdAt": "2025-09-02T17:18:00.658Z",
+      "updatedAt": "2025-09-02T17:18:00.658Z"
+    },
+    {
+      "userId": "4",
+      "title": "SDE",
+      "skills": [
+        "C++ Node.js Next.js React TypeScript MongoDB Redis Socket.IO REST APIs OAuth2/JWT SQL Real-Time Systems LLM Integration"
+      ],
+      "yoe": 1,
+      "location": "noida",
+      "expectedCTC": 10000000000,
+      "about": "About\n\nDear Hiring Manager,\n\nI am excited to apply for Software Development Engineer roles at your organization. I bring hands-on experience delivering scalable fintech products, real-time full-stack platforms, and impactful research.\n\nCore Skills:\nC++, Node.js, Next.js, React, TypeScript, MongoDB, Redis, Socket.IO, REST APIs, OAuth2/JWT, SQL, Real-Time Systems, LLM Integration\n\nProfessional Experience:\nFNZ Group: Automated client onboarding for APAC/UK, building 100+ API integrations and backend workflows, reducing onboarding effort by 70%.\nCurtis Bank: Streamlined AI-powered workflows, decreasing manual work by 30% through advanced rule-chaining and reliability improvements.\n\nKey Projects:\nBidly – Real-Time Service Bidding Platform:\nDeveloped a full-stack Next.js + Node.js system with role-based dashboards, JWT-secured routes, and real-time updates using Socket.IO. Achieved <200ms API response times, auto-purged stale data with MongoDB TTL, and planned LLM-powered search.\n\nTradeLab – Stock Trading Simulation:\nEngineered a real-time trading app with live price feeds, instant P&L, atomic transaction flows, and Redis-powered caching to reduce API calls by 65%. Enabled <100ms dashboard loads, robust WebSocket updates, and secure authentication.\n\nSelect Achievements:\n\nBest Employee Award at FNZ\n\n1,000+ DSA problems solved\n\nMentored 300+ students (C++/DSA)\n\nNational RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist\n\nSpringer LNNS (Scopus) paper co-author on Parkinson’s detection via speech\n\nI am confident in C++, Node.js, React, REST API design, and scalable backend systems. I thrive in engineering-driven teams and am ready to contribute from day one.\n\nThank you for your time. I look forward to discussing my fit for your SDE team.\n\nBest regards,\nAyush Dubey\nayushdubeymanu@gmail.com\n+91-9560752808\nResume: https://drive.google.com/file/d/1YfYFLnAHNhHUKdHZgunr29s8G9hOApps/view?usp=drive_link\nLinkedin: https://linkedin.com/in/ayush-dubey-399a1a231\nLeetcode: https://leetcode.com/u/ayushdubeymanu0786/",
+      "experiences": [],
+      "achievements": [
+        "Best Employee Award at FNZ",
+        "1,000+ DSA problems solved",
+        "Mentored 300+ students (C++/DSA)",
+        "National RoboCup Jr. finalist, ISRO Space Kidz Challenge finalist",
+        "Springer LNNS (Scopus) paper co-author on Parkinson’s detection via speech"
+      ],
+      "lastActive": "2025-09-03T16:20:35.714Z",
+      "createdAt": "2025-09-03T16:20:35.714Z",
+      "updatedAt": "2025-09-03T16:20:35.714Z"
+    }
+  ],
+  "recruiterProfiles": [],
+  "swipes": [],
+  "matches": [],
+  "messages": [],
+  "unmatches": [],
+  "recruiterSettings": {},
+  "organizations": [],
+  "orgMembers": [],
+  "jobsV2": [],
+  "interviews": [],
+  "auditLogs": [],
+  "userActiveOrg": {},
+  "recruiterFilters": {}
+}

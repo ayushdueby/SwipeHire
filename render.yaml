@@ -1,0 +1,38 @@
+# Render Blueprint for SwipeHire backend
+
+services:
+  - type: web
+    name: swipehire-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm build
+    startCommand: node dist/server.js
+    autoDeploy: true
+    healthCheckPath: /health
+    runtime: node
+    region: oregon
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: CORS_ORIGIN
+        value: https://your-frontend.vercel.app
+      - key: MONGODB_URI
+        sync: false
+      - key: CLERK_SECRET_KEY
+        sync: false
+      - key: WEBHOOK_SECRET_CLERK
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: POSTHOG_KEY
+        sync: false
+
+
+
